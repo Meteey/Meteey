@@ -10,6 +10,7 @@ My stats:
 My social media links:
 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mustafa-konur-071ab1252/)
 &nbsp;
+
 
