@@ -1,5 +1,5 @@
 ### Hi there 👋
-It's me, meteey. I'll not fill all the area.
+It's me, meteey!
 
 My stats:
 
@@ -9,8 +9,10 @@ My stats:
 
 My social media links:
 
+<a href="https://www.linkedin.com/in/mustafa-konur-071ab1252">LinkedIn</a>
+<a href="https://www.twitter.com/mustafakameteey">Twitter </a>
+<a href="https://medium.com/@meteey">Medium </a>
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mustafa-konur-071ab1252/)
-&nbsp;
-
+My website:
+<a href ="https://www.mustafakonur.com">mustafakonur.com</a>
 
