@@ -12,9 +12,5 @@ My stats:
 My social media links:
 
 <a href="https://www.linkedin.com/in/mustafa-konur-071ab1252">LinkedIn</a>
-<a href="https://www.twitter.com/mustafakameteey">Twitter </a>
 <a href="https://medium.com/@meteey">Medium </a>
-
-My website:
-<a href ="https://www.mustafakonur.com">mustafakonur.com</a>
 
