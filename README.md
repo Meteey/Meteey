@@ -5,5 +5,4 @@ My stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meteey)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/meteey)
 
